@@ -14,4 +14,4 @@
 *   easy to bootstrap into other PHP web apps
 
 
-[ProcessWire - Forum thread](https://processwire.com/talk/topic/19478-new-blog-post-processwire-vs-wordpress/)
+[ProcessWire - Forum thread](https://processwire.com/talk/topic/19478-new-blog-post-processwire-vs-wordpress/) - where you can participate and discuss the arguments listed here.
