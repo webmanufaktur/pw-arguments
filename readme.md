@@ -12,3 +12,6 @@
 *   every input field is already custom, by design (no need for 3rd party extensions)
 *   a very good API with a small learning curve
 *   easy to bootstrap into other PHP web apps
+
+
+[ProcessWire - Forum thread](https://processwire.com/talk/topic/19478-new-blog-post-processwire-vs-wordpress/)
